@@ -1,0 +1,9 @@
+body{
+    color: brown;
+}
+
+#my_canvas{
+    border-style: ridge;
+    border-width: 5px;
+    border-color: coral;
+}
